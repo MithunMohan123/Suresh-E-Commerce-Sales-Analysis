@@ -34,7 +34,7 @@ This **Power BI Dashboard** provides a comprehensive analysis of e-commerce sale
 - <a href="https://github.com/MithunMohan123/Suresh-E-Commerece-Sales-Analysis/blob/main/suresh%20Ecommerce%20analysis.pbix">Interactive-Power-BI-Dasboard</a>
 
 
-## 🌟 Business Applications  
+## 🌟 Business Applications Suggestions
 - **Optimize Inventory**:  
   Focus on high-performing categories and subcategories while addressing underperformers.  
 - **Regional Growth**:  
